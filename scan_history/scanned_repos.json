@@ -1259,8 +1259,78 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "wlchin/geneinsight": {
+      "first_scan": "2025-10-17 09:49:41",
+      "last_scan": "2025-10-17 09:49:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "BenDundee/ai-research-assistant": {
+      "first_scan": "2025-10-17 09:50:14",
+      "last_scan": "2025-10-17 09:50:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "alfinkly/ThaiBot": {
+      "first_scan": "2025-10-17 09:50:19",
+      "last_scan": "2025-10-17 09:50:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "leonj1/my-gitlab-ai-pipeline": {
+      "first_scan": "2025-10-17 09:50:46",
+      "last_scan": "2025-10-17 09:50:46",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AnunaySinha04/TDS_Project": {
+      "first_scan": "2025-10-17 09:50:57",
+      "last_scan": "2025-10-17 09:50:57",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "code-completion/code": {
+      "first_scan": "2025-10-17 09:51:41",
+      "last_scan": "2025-10-17 09:51:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ComposioHQ/grok-cli": {
+      "first_scan": "2025-10-17 09:51:49",
+      "last_scan": "2025-10-17 09:51:49",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "javieribanez10/EXCEL-PROCESSOR": {
+      "first_scan": "2025-10-17 09:51:57",
+      "last_scan": "2025-10-17 09:51:57",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "set-university/genai-workshops": {
+      "first_scan": "2025-10-17 09:53:08",
+      "last_scan": "2025-10-17 09:53:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "anshulmallick/AgenticAI_Autopilot": {
+      "first_scan": "2025-10-17 09:53:41",
+      "last_scan": "2025-10-17 09:53:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 180,
-  "last_updated": "2025-10-17 03:27:22"
+  "total_scanned": 190,
+  "last_updated": "2025-10-17 09:53:41"
 }
